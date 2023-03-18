@@ -1,0 +1,11 @@
+* {
+    font-family: sans-serif;
+}
+
+html {
+    font-size: 14px;
+    background-color: blue;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
