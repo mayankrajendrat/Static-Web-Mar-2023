@@ -12,3 +12,8 @@ html {
 .logo.left {
 float: left;
 }
+
+ul li {
+    font-size: 15px;
+    color: green;
+}
