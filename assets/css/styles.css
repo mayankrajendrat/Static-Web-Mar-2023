@@ -11,4 +11,8 @@ html {
 }
 .logo.left {
 float: left;
+} 
+
+nav {
+    background-color: lightblue;
 }
