@@ -1,0 +1,14 @@
+* {
+    font-family: sans-serif;
+}
+
+html {
+    font-size: 14px;
+    background-color: gray;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+.logo.left {
+float: left;
+}
