@@ -12,3 +12,9 @@ html {
 .logo.left {
 float: left;
 }
+.menu {
+    color : green;
+}
+footer {
+    background-color: azure;
+}
